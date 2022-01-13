@@ -1,0 +1,4 @@
+Bundle-Name: preloginevent
+Bundle-SymbolicName: com.liferay.login.pre.hook
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.login.pre.hook.constants
